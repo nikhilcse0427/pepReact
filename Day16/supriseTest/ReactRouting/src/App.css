@@ -1,0 +1,20 @@
+
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh
+}
+
+button {
+  margin: 10px;
+}
+p{
+  color:green;
+}
+#p1{
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
